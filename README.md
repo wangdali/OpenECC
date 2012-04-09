@@ -1,6 +1,6 @@
 # OpenECC
 
-An open source library for Elliptic Curve cryptosystem
+An Open Source Library for Elliptic Curve Cryptosystem
 
 ## Introduction
 
