@@ -1,6 +1,6 @@
 # OpenECC
 
-An Open Source Library for Elliptic Curve Cryptosystem
+An open source library for Elliptic Curve cryptosystem
 
 ## Introduction
 
@@ -10,7 +10,7 @@ OpenECC is intended for Zigbee platforms based on ARM Cortex-M3 processors. The 
 
 For questions please contact Dr. Xinxin Fan at fan@openecc.org. 
 
-## LICENSE
+## License
 
     Copyright 2012 Xinxin Fan <fan@openecc.org>
     All rights reserved.
